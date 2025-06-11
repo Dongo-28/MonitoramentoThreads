@@ -7,11 +7,17 @@ Este projeto simula o processamento concorrente de relatórios na Universidade d
 MonitoramentoThreads/
 │
 ├── src/
+
 │   ├── Relatorio.java
+
 │   ├── ProcessadorDeRelatorios.java
+
 │   ├── RelatorioTimer.java
+
 │   └── Principal.java
+
 ├── bin/
+
 └── README.md
 📄 Descrição das Classes
 📘 Relatorio.java
