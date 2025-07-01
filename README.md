@@ -109,4 +109,3 @@ Exceções não tratadas são capturadas globalmente e mostradas no console
 - O programa termina automaticamente após 20 segundos
 - Threads simulam usuários diferentes com comportamentos próprios
 - Exceções não tratadas são capturadas globalmente e mostradas no console
->>>>>>> f2be966 (:ok_hand: adicionando novo(s) arquivos/atualizações)
