@@ -19,7 +19,6 @@ MonitoramentoThreads/
 
 ├── bin/
 
-<<<<<<< HEAD
 └── README.md
 
 📄 Descrição das Classes
