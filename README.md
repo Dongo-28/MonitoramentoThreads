@@ -32,7 +32,6 @@ MonitoramentoThreads/
 ## 📄 Descrição das Classes
 
 ### 📘 Relatorio.java
->>>>>>> f2be966 (:ok_hand: adicionando novo(s) arquivos/atualizações)
 Representa um relatório com:
 - ID do usuário
 - Timestamp de geração
@@ -63,7 +62,6 @@ Ponto de entrada do sistema:
 # 1. Clone o repositório
 ```
 git clone https://github.com/Dongo-28/MonitoramentoThreads
-
 cd MonitoramentoThreads
 ```
 # 2. Compile os arquivos
@@ -94,7 +92,7 @@ Se preferires usar um JAR pronto:
 2. Execute via terminal:
 ```
 java -jar MonitoramentoThreads.jar
-<<<<<<< HEAD
+
 
 ℹ️ Observações
 O programa termina automaticamente após 20 segundos
@@ -107,4 +105,4 @@ Exceções não tratadas são capturadas globalmente e mostradas no console
 ## ℹ️ Observações
 - O programa termina automaticamente após 20 segundos
 - Threads simulam usuários diferentes com comportamentos próprios
-- Exceções não tratadas são capturadas globalmente e mostradas no console
+- Exceções não tratadas são capturadas globalmente e mostradas no console.
