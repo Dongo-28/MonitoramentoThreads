@@ -25,9 +25,6 @@ MonitoramentoThreads/
 
 📘 Relatorio.java
 
-=======
-└── README.
-
 
 ## 📄 Descrição das Classes
 
@@ -100,7 +97,7 @@ O programa termina automaticamente após 20 segundos
 Threads simulam usuários diferentes com comportamentos próprios
 
 Exceções não tratadas são capturadas globalmente e mostradas no console
-=======
+
 ```
 ## ℹ️ Observações
 - O programa termina automaticamente após 20 segundos
