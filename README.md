@@ -54,7 +54,7 @@ Ponto de entrada do sistema:
 
 # 1. Clone o repositório
 ```
-git clone https://github.com/seu-usuario/MonitoramentoThreads.git
+git clone 
 cd MonitoramentoThreads
 ```
 # 2. Compile os arquivos
