@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧵 Sistema de Monitoramento de Threads para Processamento de Relatórios
 
 Este projeto simula o processamento concorrente de relatórios na Universidade do Mindelo (UM), utilizando threads, ThreadLocal, e agendamento periódico com TimerTask.
@@ -103,3 +104,6 @@ Exceções não tratadas são capturadas globalmente e mostradas no console
 - O programa termina automaticamente após 20 segundos
 - Threads simulam usuários diferentes com comportamentos próprios
 - Exceções não tratadas são capturadas globalmente e mostradas no console.
+=======
+
+>>>>>>> 4d17aed63052a814a2486b86d4ff32d02355a0d1
